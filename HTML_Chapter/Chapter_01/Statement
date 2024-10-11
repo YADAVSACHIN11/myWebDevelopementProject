@@ -1,1 +1,19 @@
 This is all about the Heading and the paragraph tags.
+
+#Heading
+
+      HTML headings are defined by HTML tags and are used to organize content and help users and search engines understand the page.
+Here are some things to know about HTML headings: 
+
+Types of headings
+
+      There are six types of headings, H1 through H6, with H1 being the most important and H6 the least important. 
+      H1 tag
+         The H1 tag is used to designate the main heading of a webpage. It should be placed at the top of the page and be relevant to the content. 
+      H3 tag
+         The H3 tag is used for subcategories or subsections under H2 tags. It can be used to highlight key arguments, introduce examples, or present different perspectives
+
+#Paragraph
+
+    A paragraph always starts on a new line, and is usually a block of text.
+
