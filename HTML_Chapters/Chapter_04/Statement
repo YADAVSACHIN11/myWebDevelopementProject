@@ -1,0 +1,11 @@
+This all about the <br> taggs in the paragraph tag(<P><?P>).
+
+Inserts a line break without starting a new paragraph. This tag is used for line breaks that are part of the content, 
+such as in poems or addresses. For example, in poetry, line breaks are usually fixed. The <br> tag is a singleton tag, 
+meaning it has no end tag. In HTML, it is not required to use a final slash ( <br />). 
+
+
+<p>
+Creates a paragraph and separates text into distinct blocks. 
+The <p> tag automatically creates some space before and after itself. 
+You can specify the space in a style sheet or the browser will automatically apply it. 
