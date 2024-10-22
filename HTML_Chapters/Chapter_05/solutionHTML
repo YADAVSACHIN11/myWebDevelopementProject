@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Ranking using HTML</title>
+</head>
+<body>
+    <h1>Best movies according to Sachin Yadav</h1>
+    <h2>There are the best of three of them I mention as,</h2>
+    <hr/>
+    <h3>Dangal (Amir khan)</h3>
+    <p>*This movie is the first movie in my life to make me as capable as , <br/>I can take my decision by myself. </p>
+    <h3>Chhichhore</h3>
+    <p>This is cast by Shushant singh Rajput, He is my favourite actor.</p>
+    <h3>KGF the king</h3>
+    <p>In this nothing is special but only one scene make me emotioal that is "Duniya me sabse badi yoddha Maa hoti hai".</p>
+</body>
+</html>
